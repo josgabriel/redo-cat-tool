@@ -1,6 +1,5 @@
 #include <fcntl.h>
 #include <unistd.h>
-#include <stdio.h>
 
 #define BUFFER 1000
 
